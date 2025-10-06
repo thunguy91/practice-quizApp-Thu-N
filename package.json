@@ -1,0 +1,23 @@
+{
+  "name": "practice-quizapp-thu-n",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thunguy91/practice-quizApp-Thu-N.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thunguy91/practice-quizApp-Thu-N/issues"
+  },
+  "homepage": "https://github.com/thunguy91/practice-quizApp-Thu-N#readme",
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
+}
